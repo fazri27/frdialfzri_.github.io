@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 4rem;
+  background-color: #aeaef5;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#talents {
+  background-color: #aeaef5;
+}
+
+section {
+  padding-top: 5rem;
+}
